@@ -1,7 +1,7 @@
 {
-  "latestVersion": "29.1",
-  "latestVersionCode": "168",
-  "url": "https://mpwcdmis.gov.in/samparkAppRelease/Release/SamparkWCD-v29.0.apk",
-  "releaseNotes": ["- Add THR stock."],
-  "releaseNote": "- Add THR stock."
+  "latestVersion": "29.2",
+  "latestVersionCode": "170",
+  "url": "https://mpwcdmis.gov.in/samparkAppRelease/Release/SamparkWCD-v29.2.apk",
+  "releaseNotes": ["- Add iycf."],
+  "releaseNote": "- Add iycf."
 }
