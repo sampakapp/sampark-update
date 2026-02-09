@@ -1,7 +1,7 @@
 {
-  "latestVersion": "29.4",
-  "latestVersionCode": "172",
-  "url": "https://mpwcdmis.gov.in/samparkAppRelease/Release/SamparkWCD-v29.4.apk",
+  "latestVersion": "29.5",
+  "latestVersionCode": "173",
+  "url": "https://mpwcdmis.gov.in/samparkAppRelease/Release/SamparkWCD-v29.5.apk",
   "releaseNotes": ["- update app."],
-  "releaseNote": "- Add iycf."
+  "releaseNote": "- Add Update Medicen."
 }
