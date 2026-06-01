@@ -1,7 +1,7 @@
 {
-  "latestVersion": "29.7",
-  "latestVersionCode": "175",
-  "url": "https://mpwcdmis.gov.in/samparkAppRelease/Release/SamparkWCD-v29.7.apk",
-  "releaseNotes": ["- update app samagra modual"],
-  "releaseNote": "- Add Update Medicen."
+  "latestVersion": "29.8",
+  "latestVersionCode": "176",
+  "url": "https://mpwcdmis.gov.in/samparkAppRelease/Release/SamparkWCD-v29.8.apk",
+  "releaseNotes": ["- update app IYCF modual"],
+  "releaseNote": "- Add Update IYCF."
 }
