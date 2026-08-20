@@ -1,7 +1,7 @@
 {
-  "latestVersion": "30.0",
-  "latestVersionCode": "178",
-  "url": "https://mpwcdmis.gov.in/samparkAppRelease/Release/SamparkWCD-v30.0.apk",
-  "releaseNotes": ["- update app thr modual"],
-  "releaseNote": "- Add Update THR."
+  "latestVersion": "30.1",
+  "latestVersionCode": "179",
+  "url": "https://mpwcdmis.gov.in/samparkAppRelease/Release/SamparkWCD-v30.1.apk",
+  "releaseNotes": ["- app Sim survey modual"],
+  "releaseNote": "- Add Sim survey."
 }
